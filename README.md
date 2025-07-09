@@ -57,8 +57,8 @@ As part of the ALX SE Program, I’m committed to:
 
 ## 🤝 Let’s Connect
 
-- 💼 https://www.linkedin.com/in/denis-kirimi/
-- 🌐 https://denis-kirimi.vercel.app/
+- 💼 [LinkedIn](https://www.linkedin.com/in/denis-kirimi/)
+- 🌐 [Portfolio](https://denis-kirimi.vercel.app/)
 
 ---
 
