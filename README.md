@@ -1,59 +1,28 @@
 # Hi there, I'm Denis Kirimi 👋  
-🚀 ALX Backend Engineering Student | 💻 Backend Developer & Virtual Assistant
+🚀 Software Developer | & Virtual Assistant
 
 ---
 
 ## 🌟 About Me
 
-I'm a dedicated learner in the ALX Backend Engineering Program, blending technology, communication, and creativity to build practical, people-centered solutions.
+I'm a Software developer and virtual assistant who creates practical tech solutions. I specialize in Python, Django, Node.js, React, TypeScript, and databases to build systems that are both technically solid and genuinely helpful for users.
 
-I’m passionate about using code to solve real-world challenges, especially those faced by underserved communities. Currently, I’m focused on backend development with Python and Django.
+I started my career training AI for software engineering projects. The detailed work taught me precision and showed me how AI solves real-world problems. This experience sparked my passion for creating practical tech solutions.
 
----
-
-## 🎯 My Vision
-
-My goal is to become a skilled backend engineer, fluent in:
-- **Python & Django**
-- **RESTful APIs**
-- **Node.js & Express**
-- **System Design**
-- **Debugging & Error Handling**
-- **DevOps Tools (in progress!)**
-
-I want to work on projects that intersect with:  
-- 🤝 People-first virtual assistant support  
-- 📈 SEO-driven content and business growth  
-- 🌱 Community empowerment through tech
+I also provide virtual assistant support that helps businesses stay organized and reach more people.
 
 ---
 
-## 📌 Projects I'm Excited to Build
 
-- Digital health platforms for remote clinics  
-- Secure and scalable RESTful APIs  
-- Tools that connect people to vital services  
-- Apps supporting small businesses and local communities  
-- Content and platforms that amplify underrepresented voices
-
----
 
 ## 🧰 My Toolbox
 
-- **Languages:** Python, JavaScript (Node.js), HTML/CSS, SQL
-- **Frameworks:** Django, Express.js
+- **Languages:** Python, JavaScript (Node.js), HTML/CSS, SQL, TypeScript
+- **Frameworks:** Django, Express.js, React
 - **Other:** REST APIs, SEO Writing, System Design, Virtual Assistance, Debugging
 
 ---
 
-## 💪 My ALX Commitment
-
-As part of the ALX SE Program, I’m committed to:
-- 📚 Consistent learning and peer support
-- 👨‍💻 Building purposeful, real-world projects
-- 🤝 Collaborating with integrity and clarity
-
----
 
 ## 🤝 Let’s Connect
 
