@@ -5,11 +5,11 @@
 
 ## 🌟 About Me
 
-I'm a Software developer and virtual assistant who creates practical tech solutions. I specialize in Python, Django, Node.js, React, TypeScript, and databases to build systems that are both technically solid and genuinely helpful for users.
+I'm a software developer and virtual assistant who creates practical tech solutions. I specialize in Python, Django, Node.js, React, TypeScript, and databases to build systems that are both technically solid and genuinely helpful for users.
 
-I started my career training AI for software engineering projects. The detailed work taught me precision and showed me how AI solves real-world problems. This experience sparked my passion for creating practical tech solutions.
+I have a proven track record in developing automation tools, custom scripts, and AI-powered solutions that save time, reduce costs, and increase efficiency. My approach is results-focused. I don’t just write code; I deliver solutions that directly help clients achieve their goals and gain a competitive edge.
 
-I also provide virtual assistant support that helps businesses stay organized and reach more people.
+In addition, I provide reliable virtual assistant support that keeps businesses organized, improves workflow, and helps them reach a wider audience through efficient task management and digital marketing strategies.
 
 ---
 
