@@ -10,6 +10,7 @@ I'm a software developer and virtual assistant who creates practical tech soluti
 I have a proven track record in developing automation tools, custom scripts, and AI-powered solutions that save time, reduce costs, and increase efficiency. My approach is results-focused. I don’t just write code; I deliver solutions that directly help clients achieve their goals and gain a competitive edge.
 
 In addition, I provide reliable virtual assistant support that keeps businesses organized, improves workflow, and helps them reach a wider audience through efficient task management and digital marketing strategies.
+
 ---
 
 
